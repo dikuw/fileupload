@@ -1,6 +1,6 @@
 # React File Upload
 
-> Simple file upload to node server from React front end. Details here: 
+> Simple file upload to node server from React front end. Details here: https://dikuw.wordpress.com/2020/07/12/upload-a-file-to-a-node-js-server-using-react/
 
 ## Quick Start
 
